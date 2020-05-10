@@ -9,7 +9,7 @@
      },
      "PASSWORD": {
        "description": "A password used to encrypt transfer.",
-       "value": "ss123456"
+       "value": "capt.liu@foxmail.com"
      }
   },
   "stack": "container",
